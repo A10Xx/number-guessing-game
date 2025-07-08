@@ -8,3 +8,11 @@ Run the script:
 
 ```bash
 python guess_game.py
+
+
+---
+
+## 🔗 See Also
+
+- [🧮 Calculator App](https://github.com/A10Xx/calculator-app)
+- [✅ To-Do App](https://github.com/A10Xx/todo-app)
